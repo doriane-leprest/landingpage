@@ -1,0 +1,25 @@
+.btn-red {
+	background-color: rgb(253, 70, 38);
+	padding: 15px 18px;
+	border-radius: 8px;
+	align-items: center;
+	color: white;
+	font-weight: bold;
+	font-family: 'Lora', serif;
+	padding-left: 40px
+	margin: auto;
+	display: block;
+	text-align: center;
+
+
+}
+
+.btn-grey {
+	background-color: red; 
+	padding: 10px 13px;
+	border-radius: 8px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Lora', serif;
+	font-size: 15px;
+}

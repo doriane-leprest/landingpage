@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora&family=Nerko+One&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Lato', sans-serif;	
+	font-size: 20px;
+	color: grey;
+	margin: 0px;
+}
+
+h1 {
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+	color : rgb(253, 70, 38) ;
+	font-size: 40px; 
+}
+
+h2 {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-weight: bold;
+	color : ;
+}
+
+a {
+	text-decoration: none;
+}
+
